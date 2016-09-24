@@ -43,7 +43,7 @@ optional arguments:
 Probing a server which has `tcp_tw_recycle` enabled:
 
 ```
-root@ubuntu:/tmp# python tcprecycler.py -d www.elegantthemes.com -s 192.168.0.56 -t 50
+root@ubuntu:/tmp# python main.py -d www.elegantthemes.com -s 192.168.0.56 -t 50
 ---------------------------------------------
 Testing: http://www.elegantthemes.com
 ---------------------------------------------
