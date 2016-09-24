@@ -25,6 +25,7 @@ import sys
 import argparse
 
 __author__ = "MacroPolo"
+__copyright__ = "MacroPolo 2016"
 __license__ = "MIT"
 __version__ = "1.0.0"
 __maintainer__ = "MacroPolo"
